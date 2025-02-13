@@ -1,2 +1,1 @@
-# github-user-activity-
-GitHub User Activity 
+# GitHub User Activity 
